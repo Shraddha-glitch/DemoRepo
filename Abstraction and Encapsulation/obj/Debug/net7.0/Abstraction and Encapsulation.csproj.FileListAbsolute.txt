@@ -1,0 +1,14 @@
+D:\internship_truenary\coding\Abstraction and Encapsulation\bin\Debug\net7.0\Abstraction and Encapsulation.exe
+D:\internship_truenary\coding\Abstraction and Encapsulation\bin\Debug\net7.0\Abstraction and Encapsulation.deps.json
+D:\internship_truenary\coding\Abstraction and Encapsulation\bin\Debug\net7.0\Abstraction and Encapsulation.runtimeconfig.json
+D:\internship_truenary\coding\Abstraction and Encapsulation\bin\Debug\net7.0\Abstraction and Encapsulation.dll
+D:\internship_truenary\coding\Abstraction and Encapsulation\bin\Debug\net7.0\Abstraction and Encapsulation.pdb
+D:\internship_truenary\coding\Abstraction and Encapsulation\obj\Debug\net7.0\Abstraction and Encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+D:\internship_truenary\coding\Abstraction and Encapsulation\obj\Debug\net7.0\Abstraction and Encapsulation.AssemblyInfoInputs.cache
+D:\internship_truenary\coding\Abstraction and Encapsulation\obj\Debug\net7.0\Abstraction and Encapsulation.AssemblyInfo.cs
+D:\internship_truenary\coding\Abstraction and Encapsulation\obj\Debug\net7.0\Abstraction and Encapsulation.csproj.CoreCompileInputs.cache
+D:\internship_truenary\coding\Abstraction and Encapsulation\obj\Debug\net7.0\Abstraction and Encapsulation.dll
+D:\internship_truenary\coding\Abstraction and Encapsulation\obj\Debug\net7.0\refint\Abstraction and Encapsulation.dll
+D:\internship_truenary\coding\Abstraction and Encapsulation\obj\Debug\net7.0\Abstraction and Encapsulation.pdb
+D:\internship_truenary\coding\Abstraction and Encapsulation\obj\Debug\net7.0\Abstraction and Encapsulation.genruntimeconfig.cache
+D:\internship_truenary\coding\Abstraction and Encapsulation\obj\Debug\net7.0\ref\Abstraction and Encapsulation.dll

@@ -1,0 +1,14 @@
+D:\internship_truenary\coding\Polymorphism\obj\Debug\net7.0\Polymorphism.GeneratedMSBuildEditorConfig.editorconfig
+D:\internship_truenary\coding\Polymorphism\obj\Debug\net7.0\Polymorphism.AssemblyInfoInputs.cache
+D:\internship_truenary\coding\Polymorphism\obj\Debug\net7.0\Polymorphism.AssemblyInfo.cs
+D:\internship_truenary\coding\Polymorphism\obj\Debug\net7.0\Polymorphism.csproj.CoreCompileInputs.cache
+D:\internship_truenary\coding\Polymorphism\bin\Debug\net7.0\Polymorphism.exe
+D:\internship_truenary\coding\Polymorphism\bin\Debug\net7.0\Polymorphism.deps.json
+D:\internship_truenary\coding\Polymorphism\bin\Debug\net7.0\Polymorphism.runtimeconfig.json
+D:\internship_truenary\coding\Polymorphism\bin\Debug\net7.0\Polymorphism.dll
+D:\internship_truenary\coding\Polymorphism\bin\Debug\net7.0\Polymorphism.pdb
+D:\internship_truenary\coding\Polymorphism\obj\Debug\net7.0\Polymorphism.dll
+D:\internship_truenary\coding\Polymorphism\obj\Debug\net7.0\refint\Polymorphism.dll
+D:\internship_truenary\coding\Polymorphism\obj\Debug\net7.0\Polymorphism.pdb
+D:\internship_truenary\coding\Polymorphism\obj\Debug\net7.0\Polymorphism.genruntimeconfig.cache
+D:\internship_truenary\coding\Polymorphism\obj\Debug\net7.0\ref\Polymorphism.dll

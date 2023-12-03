@@ -1,0 +1,14 @@
+D:\internship_truenary\coding\Design Patterns\FahrenhietToCelcius\obj\Debug\net7.0\FahrenhietToCelcius.GeneratedMSBuildEditorConfig.editorconfig
+D:\internship_truenary\coding\Design Patterns\FahrenhietToCelcius\obj\Debug\net7.0\FahrenhietToCelcius.AssemblyInfoInputs.cache
+D:\internship_truenary\coding\Design Patterns\FahrenhietToCelcius\obj\Debug\net7.0\FahrenhietToCelcius.AssemblyInfo.cs
+D:\internship_truenary\coding\Design Patterns\FahrenhietToCelcius\obj\Debug\net7.0\FahrenhietToCelcius.csproj.CoreCompileInputs.cache
+D:\internship_truenary\coding\Design Patterns\FahrenhietToCelcius\bin\Debug\net7.0\FahrenhietToCelcius.exe
+D:\internship_truenary\coding\Design Patterns\FahrenhietToCelcius\bin\Debug\net7.0\FahrenhietToCelcius.deps.json
+D:\internship_truenary\coding\Design Patterns\FahrenhietToCelcius\bin\Debug\net7.0\FahrenhietToCelcius.runtimeconfig.json
+D:\internship_truenary\coding\Design Patterns\FahrenhietToCelcius\bin\Debug\net7.0\FahrenhietToCelcius.dll
+D:\internship_truenary\coding\Design Patterns\FahrenhietToCelcius\bin\Debug\net7.0\FahrenhietToCelcius.pdb
+D:\internship_truenary\coding\Design Patterns\FahrenhietToCelcius\obj\Debug\net7.0\FahrenhietToCelcius.dll
+D:\internship_truenary\coding\Design Patterns\FahrenhietToCelcius\obj\Debug\net7.0\refint\FahrenhietToCelcius.dll
+D:\internship_truenary\coding\Design Patterns\FahrenhietToCelcius\obj\Debug\net7.0\FahrenhietToCelcius.pdb
+D:\internship_truenary\coding\Design Patterns\FahrenhietToCelcius\obj\Debug\net7.0\FahrenhietToCelcius.genruntimeconfig.cache
+D:\internship_truenary\coding\Design Patterns\FahrenhietToCelcius\obj\Debug\net7.0\ref\FahrenhietToCelcius.dll

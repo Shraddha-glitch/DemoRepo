@@ -1,0 +1,14 @@
+D:\internship_truenary\coding\Generics\obj\Debug\net7.0\Generics.GeneratedMSBuildEditorConfig.editorconfig
+D:\internship_truenary\coding\Generics\obj\Debug\net7.0\Generics.AssemblyInfoInputs.cache
+D:\internship_truenary\coding\Generics\obj\Debug\net7.0\Generics.AssemblyInfo.cs
+D:\internship_truenary\coding\Generics\obj\Debug\net7.0\Generics.csproj.CoreCompileInputs.cache
+D:\internship_truenary\coding\Generics\bin\Debug\net7.0\Generics.exe
+D:\internship_truenary\coding\Generics\bin\Debug\net7.0\Generics.deps.json
+D:\internship_truenary\coding\Generics\bin\Debug\net7.0\Generics.runtimeconfig.json
+D:\internship_truenary\coding\Generics\bin\Debug\net7.0\Generics.dll
+D:\internship_truenary\coding\Generics\bin\Debug\net7.0\Generics.pdb
+D:\internship_truenary\coding\Generics\obj\Debug\net7.0\Generics.dll
+D:\internship_truenary\coding\Generics\obj\Debug\net7.0\refint\Generics.dll
+D:\internship_truenary\coding\Generics\obj\Debug\net7.0\Generics.pdb
+D:\internship_truenary\coding\Generics\obj\Debug\net7.0\Generics.genruntimeconfig.cache
+D:\internship_truenary\coding\Generics\obj\Debug\net7.0\ref\Generics.dll
